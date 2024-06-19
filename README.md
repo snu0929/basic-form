@@ -11,3 +11,6 @@ Features
 ### deployed link is - https://6672e6a781326035364714ce--enchanting-stardust-27cfa4.netlify.app/
 
 ### screenshots
+![image](https://github.com/snu0929/basic-form/assets/113917963/9b100e28-4620-44a4-8e48-611010b0ebba)
+
+![image](https://github.com/snu0929/basic-form/assets/113917963/be706062-b22e-4a7b-bf43-26fd9136d1ec)
